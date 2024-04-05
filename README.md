@@ -28,8 +28,7 @@ _**Fig 1.** A phishing website which looks just like Google Drive._
 ![dropbox_phishing](https://user-images.githubusercontent.com/18022447/35985373-84056c86-0cc4-11e8-8751-cf511d5b8aa0.png)
 _**Fig 2.** A phishing website which looks just like Dropbox_
 
-![moodle_safe](https://user-images.githubusercontent.com/18022447/35985384-881ea85a-0cc4-11e8-9bea-cf71b3089364.png)
-_**Fig 3.** A safe website 
+
 
 
 
