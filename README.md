@@ -1,6 +1,6 @@
 # Malicious Web Content Detection using Machine Learning
 
-#### Problem Statement - 
+### Problem Statement - 
 #### Naive web browser users are vulnerable to online threats such as phishing scams and malware downloads because they lack awareness of the website's back-end functionalities. This can lead to them unknowingly giving away personal information or downloading malicious content.  Exhaustively identifying and blocking all harmful content is impossible due to its constant evolution.
 
 
@@ -29,7 +29,7 @@ _**Fig 1.** A phishing website which looks just like Google Drive._
 _**Fig 2.** A phishing website which looks just like Dropbox_
 
 ![moodle_safe](https://user-images.githubusercontent.com/18022447/35985384-881ea85a-0cc4-11e8-9bea-cf71b3089364.png)
-_**Fig 3.** A safe website - www.google.com_
+_**Fig 3.** A safe website 
 
 
 
